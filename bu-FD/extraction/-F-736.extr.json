@@ -1,0 +1,36 @@
+{
+    "beam_diameter": "", 
+    "cleanup_duration": 60.0, 
+    "commit": "0ca84a7e1ea938dd43b43ff42750eff4aec7decd", 
+    "extract_device": "Fusions Diode", 
+    "extract_duration": 80.0, 
+    "extract_units": "", 
+    "extract_value": 0.0, 
+    "grain_polygon_blob": [], 
+    "measured_response": "BMW0TgAAAAAwUkg+AAD6RCCBDEAAAPpEH1mGQAAA+kT7acZAAAD6RI84A0EAAPpEy1IjQQAA+kT9XENBAAD6RKZoY0EAAPpE5byBQQAA+kT+upFBAAD6RF29oUEAAPpEHr+xQQAA+kTdvcFBAAD6RATF0UEAAPpEY8fhQQAA+kTexfFBAAD6RALkAEIAAPpEKuQIQgAA+kQr4xBCAAD6ROXjGEIAAPpEKuMgQgAA+kTk4ihCAAD6RIXjMEIAAPpEg+04QgAA+kTi8UBCAAD6RHX0SEIAAPpE+PVQQgAA+kTL/VhCAAD6RLv9YEIAAPpE5gFpQgAA+kT6AHFCAAD6RBcCeUIAAPpEhoGAQgAA+kTahIRCAAD6RP+GiEIAAPpEP4mMQgAA+kRMipBCAAD6RNiJlEIAAPpEpo6YQgAA+kRHkJxCAAD6RGWSoEIAAPpE2pSkQgAA+kQql6hCAAD6RGWarEIAAPpEg5uwQgAA+kQwm7RCAAD6RCSbuEIAAPpE1pq8QgAA+kQ=", 
+    "pattern": "", 
+    "positions": [
+        {
+            "is_degas": false, 
+            "position": "1", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }, 
+        {
+            "is_degas": false, 
+            "position": "3", 
+            "x": null, 
+            "y": null, 
+            "z": null
+        }
+    ], 
+    "ramp_duration": 0.0, 
+    "ramp_rate": 0.0, 
+    "requested_output": "BMW0TgAAAAAwUkg+AAAAACCBDEAAAAAAH1mGQAAAAAD7acZAAAAAAI84A0EAAAAAy1IjQQAAAAD9XENBgwSIQaZoY0GDBIhB5byBQYMEiEH+upFBgwSIQV29oUGDBIhBHr+xQYMEiEHdvcFBgwSIQQTF0UGDBIhBY8fhQYMEiEHexfFBgwSIQQLkAEKDBIhBKuQIQoMEiEEr4xBCgwSIQeXjGEKDBIhBKuMgQoMEiEHk4ihCgwSIQYXjMEKDBIhBg+04QoMEiEHi8UBCgwSIQXX0SEKDBIhB+PVQQoMEiEHL/VhCgwSIQbv9YEKDBIhB5gFpQoMEiEH6AHFCgwSIQRcCeUKDBIhBhoGAQoMEiEHahIRCgwSIQf+GiEKDBIhBP4mMQoMEiEFMipBCgwSIQdiJlEKDBIhBpo6YQoMEiEFHkJxCgwSIQWWSoEKDBIhB2pSkQoMEiEEql6hCgwSIQWWarEKDBIhBg5uwQoMEiEEwm7RCgwSIQSSbuEKDBIhB1pq8QoMEiEE=", 
+    "setpoint_stream": "", 
+    "snapshots": [], 
+    "tray": "", 
+    "videos": [], 
+    "weight": 32.0
+}
