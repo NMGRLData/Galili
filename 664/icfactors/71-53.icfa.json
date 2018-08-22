@@ -63,8 +63,8 @@
         "value": 1.0053263532606107
     },
     "CDD": {
-        "error": 0.004055245007200125,
-        "fit": "Weighted Mean",
+        "error": 0.0025026409016492726,
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -218,7 +218,7 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0021202472094006
+        "value": 1.006908905125915
     },
     "H1": {
         "error": 1e-20,
