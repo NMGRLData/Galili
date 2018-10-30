@@ -6,7 +6,7 @@
         "value": 1.0
     },
     "H1": {
-        "error": 0.0003385327775677363,
+        "error": 0.0003385327775677362,
         "fit": "Bracketing Interpolate",
         "references": [
             {
